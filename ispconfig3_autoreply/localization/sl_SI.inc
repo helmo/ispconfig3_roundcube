@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'Začne';
 $labels['autoreplyendby'] = 'Konča naprej';
 $messages['textempty'] = 'Prosimo, vnesite sporočilo za odzivnik';
 $messages['startdate_notfuture'] = 'Začetni datum ne more biti v preteklosti';
-$messages['endate_notgreater'] = 'Končni datum mora biti nastavljen in pozneje od začetnega datuma';
+$messages['autoresponder_end_date_isgreater'] = 'Končni datum mora biti nastavljen in pozneje od začetnega datuma';

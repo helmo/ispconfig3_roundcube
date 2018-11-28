@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'Début';
 $labels['autoreplyendby'] = 'Fin';
 $messages['textempty'] = 'Merci de saisir un message';
 $messages['startdate_notfuture'] = 'La date de début ne peut pas être dans le passé';
-$messages['endate_notgreater'] = 'La date de fin doit être antérieure à la date de début';
+$messages['autoresponder_end_date_isgreater'] = 'La date de fin doit être antérieure à la date de début';
