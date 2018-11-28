@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'Начална дата и час';
 $labels['autoreplyendby'] = 'Крайна дата и час';
 $messages['textempty'] = 'Моля да въведете текст за съобщение';
 $messages['startdate_notfuture'] = 'Началната дата не може да е в миналото';
-$messages['endate_notgreater'] = 'Трябва да укажете крайна дата и тя да е след началната дата';
+$messages['autoresponder_end_date_isgreater'] = 'Трябва да укажете крайна дата и тя да е след началната дата';

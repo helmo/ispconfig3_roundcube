@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'Start den';
 $labels['autoreplyendby'] = 'Stoppt den';
 $messages['textempty'] = 'W.e.gl Noriicht aginn';
 $messages['startdate_notfuture'] = 'De Startdatum kann net an der Vergaangenheet sinn';
-$messages['endate_notgreater'] = 'Den Enddatum muss gesat a méi spéit ewéi de Startdatum sinn';
+$messages['autoresponder_end_date_isgreater'] = 'Den Enddatum muss gesat a méi spéit ewéi de Startdatum sinn';

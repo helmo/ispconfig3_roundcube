@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'Startdatum';
 $labels['autoreplyendby'] = 'Slutdatum';
 $messages['textempty'] = 'Skriv ett meddelande';
 $messages['startdate_notfuture'] = 'Startdatum måste väljas och kan inte vara tidigare än idag';
-$messages['endate_notgreater'] = 'Slutdatum måste väljas och m&aring;ste vara senare än startdatumet';
+$messages['autoresponder_end_date_isgreater'] = 'Slutdatum måste väljas och m&aring;ste vara senare än startdatumet';

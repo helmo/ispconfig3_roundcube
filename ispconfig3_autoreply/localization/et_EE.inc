@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'Alates';
 $labels['autoreplyendby'] = 'Kuni';
 $messages['textempty'] = 'Palun sisesta vastus';
 $messages['startdate_notfuture'] = 'Algus aeg ei tohi olla minevikus';
-$messages['endate_notgreater'] = 'Lõpu aeg peab olema määratud ja hilisem kui algus aeg';
+$messages['autoresponder_end_date_isgreater'] = 'Lõpu aeg peab olema määratud ja hilisem kui algus aeg';

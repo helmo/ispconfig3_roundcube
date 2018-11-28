@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'Začít od';
 $labels['autoreplyendby'] = 'Skončit';
 $messages['textempty'] = 'Prosím napište text zprávy';
 $messages['startdate_notfuture'] = 'Datum zahájení nemůže být v minulosti';
-$messages['endate_notgreater'] = 'Datum ukončení musí být nastaveno a být pozdější než datum zahájení';
+$messages['autoresponder_end_date_isgreater'] = 'Datum ukončení musí být nastaveno a být pozdější než datum zahájení';
