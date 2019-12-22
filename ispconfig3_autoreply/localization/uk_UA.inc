@@ -7,4 +7,4 @@ $labels['autoreplystarton'] = 'початок';
 $labels['autoreplyendby'] = 'закінчення';
 $messages['textempty'] = 'Будь ласка, введіть повідомлення';
 $messages['startdate_notfuture'] = 'Дата початку не може бути в минулому';
-$messages['endate_notgreater'] = 'Дата закінчення обов\'язкова і не може бути раніше дати початку';
+$messages['autoresponder_end_date_isgreater'] = 'Дата закінчення обов\'язкова і не може бути раніше дати початку';
